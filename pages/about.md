@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "About"
 subheadline: "A brief introduction to SACM"
 teaser: ""
 header:
    image_fullwidth: "header_unsplash_about.jpg"
-permalink: "/About/"
+permalink: /about/
 ---
 
 SACM is the student chapter of the [Association for Computing Machinery][2] at the University of Wisconsin. SACM exists to provide professional and social activities for CS graduate students. SACM is a Registered Student Organization (RSO) at UW-Madison, and follows [Student Organization Resource & Policy Guide][3]. 
