@@ -172,12 +172,6 @@ image:
     </figure>
   </div>
   <div class="large-3 columns">
-    <figure>
-      <img src="../images/anonymous.jpg">
-      <figcaption>Yang Guo</figcaption>
-    </figure>
-  </div>
-  <div class="large-3 columns">
   </div>
   <div class="large-3 columns">
   </div>
