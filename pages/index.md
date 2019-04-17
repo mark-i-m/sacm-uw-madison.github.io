@@ -28,7 +28,7 @@ SACM does a bunch of stuff that you might not know about...
 - New Student Bonfire
 - Movie Night
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/Events/">See All Events ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/events/">See All Events ›</a>
 
 </div>
 
