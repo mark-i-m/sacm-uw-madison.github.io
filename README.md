@@ -17,4 +17,14 @@ The install jekyll (locally, no sudo needed):
 > PATH=$PATH:~/.gem/ruby/2.5.0/bin/ bundle exec jekyll serve
 ```
 
-This will start a server listening at some port on localhost, which will continually rebuild the website as long as you edit.
+This will start a server listening at some port on localhost, which will continually rebuild the website as long as you edit. This server should only be used for testing.
+
+## Deploying
+
+Jekyll is a static site generator. You only need to build the website and then put it where a server (e.g. nginx or Apache) can find it. To build the website:
+
+```console
+> PATH=$PATH:~/.gem/ruby/2.5.0/bin/ bundle exec jekyll b -d ~markm/public/html-s/testsacm
+```
+
+where `~markm/public/html-s/testsacm` is the location to deploy the website too. You may also need to edit the `baseurl` setting in `_config.yml`.
