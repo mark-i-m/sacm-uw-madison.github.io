@@ -1,9 +1,4 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
 layout: page-fullwidth
 header:
   image_fullwidth: header_unsplash_home.jpg
@@ -12,8 +7,6 @@ homepage: true
 ---
 
 <div class="row" markdown="1">
-
-SACM does a bunch of stuff that you might not know about...
 
 </div><!-- /.row -->
 
@@ -47,14 +40,4 @@ SACM does a bunch of stuff that you might not know about...
 
 </div>
 </div>
-</div>
-
-<div class="row" markdown="1">
-
-# Miscellaneous Services
-
-- [gradchat Mail List FAQ](http://sacm.cs.wisc.edu/gradchat-faq.shtml)
-- [Nameplate Generator](http://sacm.cs.wisc.edu/nameplate.shtml)
-- [COW Award](http://sacm.cs.wisc.edu/cowaward/index.shtml)
-
 </div>

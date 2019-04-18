@@ -13,3 +13,7 @@
 - title: "Events"
   url: "/events/"
   side: left
+
+- title: "Misc"
+  url: "/misc/"
+  side: left
