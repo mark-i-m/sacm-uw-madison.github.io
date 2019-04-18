@@ -17,7 +17,10 @@ SACM does a bunch of stuff that you might not know about...
 
 </div><!-- /.row -->
 
-<div class="row" markdown="1">
+<div class="row">
+<div class="large-6 column">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tgif1.jpg" style="width: 100%" />
+<div markdown="1">
 
 # Social Activities
 
@@ -28,18 +31,22 @@ SACM does a bunch of stuff that you might not know about...
 - New Student Bonfire
 - Movie Night
 
+</div>
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/events/">See All Events ›</a>
-
 </div>
 
-<div class="row" markdown="1">
+<div class="large-6 column">
+<img src="{{ site.url }}{{ site.baseurl }}/images/bonfire1.jpg" style="width: 100%" />
 
+<div markdown="1">
 # Prospective and New Students
 
 - [Welcome Weekend](http://sacm.cs.wisc.edu/welcome/)
 - [New Student Orientation](http://sacm.cs.wisc.edu/orientation/)
 - [Resources For Transitioning to Grad-Student Life](http://sacm.cs.wisc.edu/transition/)
 
+</div>
+</div>
 </div>
 
 <div class="row" markdown="1">
