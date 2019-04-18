@@ -11,11 +11,12 @@ homepage: true
 </div><!-- /.row -->
 
 <div class="row">
-<div class="large-6 column">
-<img src="{{ site.url }}{{ site.baseurl }}/images/tgif1.jpg" style="width: 100%" />
-<div markdown="1">
 
-# Social Activities
+<div class="large-6 column">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tgif1.jpg" style="width: 100%;" />
+
+<div markdown="1">
+### Social Activities
 
 - TGIF and MegaTGIF
 - Programming Competition
@@ -29,10 +30,10 @@ homepage: true
 </div>
 
 <div class="large-6 column">
-<img src="{{ site.url }}{{ site.baseurl }}/images/bonfire1.jpg" style="width: 100%" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/bonfire1.jpg" style="width: 100%; margin-top: 13px; margin-bottom: 13px;" />
 
 <div markdown="1">
-# Prospective and New Students
+### Prospective and New Students
 
 - [Welcome Weekend](http://sacm.cs.wisc.edu/welcome/)
 - [New Student Orientation](http://sacm.cs.wisc.edu/orientation/)
