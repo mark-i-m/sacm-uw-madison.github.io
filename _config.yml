@@ -82,7 +82,6 @@ keep_files:
     - index.shtml
     - jsdatepick
     - nameplate
-    - nameplate.shtml
     - orientation
     - README
     - template_begin.shtml

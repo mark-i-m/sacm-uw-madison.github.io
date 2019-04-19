@@ -8,5 +8,5 @@ permalink: /misc/
 ---
 
 - [gradchat Mail List FAQ](http://sacm.cs.wisc.edu/gradchat-faq.shtml)
-- [Nameplate Generator](http://sacm.cs.wisc.edu/nameplate.shtml)
+- [Nameplate Generator](http://sacm.cs.wisc.edu/nameplate/)
 - [COW Award](http://sacm.cs.wisc.edu/cowaward/index.shtml)
