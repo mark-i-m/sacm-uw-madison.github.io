@@ -13,7 +13,7 @@ homepage: true
 <div class="row">
 
 <div class="large-6 column">
-<img src="{{ site.url }}{{ site.baseurl }}/images/tgif1.jpg" style="width: 100%;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/tgif1.jpg" style="width: 90%; margin-top: 13px; margin-bottom: 13px;" />
 
 <div markdown="1">
 ### Social Activities
