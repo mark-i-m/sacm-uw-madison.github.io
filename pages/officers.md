@@ -24,8 +24,8 @@ image:
 <div class="row">
   <div class="large-3 columns">
     <figure>
-      <img src="http://placehold.it/220x141/6b6351/e1dcd7&amp;text=President">
-      <figcaption>David Merrell</figcaption>
+      <img src="../images/dmerrell_profile.JPG" width="220" height="280">
+      <figcaption>David Merrell (President)</figcaption>
     </figure>
   </div>
   <div class="large-3 columns">
