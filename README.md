@@ -24,7 +24,7 @@ This will start a server listening at some port on localhost, which will continu
 Jekyll is a static site generator. You only need to build the website and then put it where a server (e.g. nginx or Apache) can find it. To build the website:
 
 ```console
-> PATH=$PATH:~/.gem/ruby/2.5.0/bin/ bundle exec jekyll b -d ~markm/public/html-s/testsacm
+> PATH=$PATH:~/.gem/ruby/2.5.0/bin/ bundle exec jekyll b -d ~sacm/public/html-www/
 ```
 
-where `~markm/public/html-s/testsacm` is the location to deploy the website too. You may also need to edit the `baseurl` setting in `_config.yml`.
+where `~sacm/public/html-www/` is the location to deploy the website too. You may also need to edit the `baseurl` setting in `_config.yml`.
