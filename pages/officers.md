@@ -25,7 +25,7 @@ image:
   <div class="large-3 columns">
     <figure>
       <img src="http://placehold.it/220x141/6b6351/e1dcd7&amp;text=President">
-      <figcaption>David Merrel</figcaption>
+      <figcaption>David Merrell</figcaption>
     </figure>
   </div>
   <div class="large-3 columns">
