@@ -14,10 +14,7 @@ title: 'SACM'
 slogan: 'UW Madison Student Chapter of ACM'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '<ul><li><a target="_blank" href="https://researchguides.library.wisc.edu/cs"><strong><u>Wendt Commons CS Research Guide</u></strong></a></li>
-<li><a target="_blank" href="https://www.acm.org/"><strong><u>National ACM Home Page</u></strong></a></li>
-<li><a target="_blank" href="https://services.acm.org/public/qj/quickjoin/qj_control.cfm?form_type=Student"><strong><u>National ACM Student Quick Join Form</u></strong></a></li>
-<li><a target="_blank" href="https://www.cs.wisc.edu/"><strong><u>UW Computer Sciences Home Page</u></strong></a></li></ul>'
+description: "SACM, Student Chapter of the ACM, Association of Computing Machinery, University of Wisconsin Madison, UW Madison"
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: 'Stay up to date by following us on our social media channels'
