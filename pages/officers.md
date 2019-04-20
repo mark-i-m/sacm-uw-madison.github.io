@@ -13,7 +13,13 @@ image:
     thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 ---
 
-<!--more-->
+<style>
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+</style>
 
 <div class="row">
     <div class="small-12 columns">
@@ -24,22 +30,19 @@ image:
 <div class="row">
   <div class="large-3 columns">
     <figure>
-      <img src="../images/dmerrell_profile.JPG" width="220" height="280">
+      <img src="../images/dmerrell_profile.JPG">
       <figcaption>David Merrell (President)</figcaption>
     </figure>
   </div>
   <div class="large-3 columns">
     <figure>
-      <img src="http://placehold.it/220x141/e05a10/e1e75e&amp;text=Vice President">
+      <img src="../images/anonymous.jpg" text="Vice President">
       <figcaption>Varun Chandrasekaran</figcaption>
     </figure>
   </div>
-  <div class="large-3 columns">
-      <!--<img src="http://placehold.it/220x141/fabb00/771e1e&amp;text=Width+220+Pixel">-->
-  </div>
-  <div class="large-3 columns">
-      <!--<img src="http://placehold.it/220x141/00792c/acca57&amp;text=Width+220+Pixel">-->
-  </div>
+
+  <div class="large-3 columns"></div>
+  <div class="large-3 columns"></div>
 </div>
 
 <div class="row">
@@ -90,12 +93,10 @@ image:
       <figcaption>Sean Chung</figcaption>
     </figure>
   </div>
-  <div class="large-3 columns">
-  </div>
-  <div class="large-3 columns">
-  </div>
-</div>
 
+  <div class="large-3 columns"></div>
+  <div class="large-3 columns"></div>
+</div>
 
 <div class="row">
     <div class="small-12 columns">
@@ -122,12 +123,9 @@ image:
       <figcaption>Anant Gupta</figcaption>
     </figure>
   </div>
-  <div class="large-3 columns">
-  </div>
+
+  <div class="large-3 columns"></div>
 </div>
-
-
-
 
 <div class="row">
     <div class="small-12 columns">
@@ -154,8 +152,8 @@ image:
       <figcaption>Yash Trivedi</figcaption>
     </figure>
   </div>
-  <div class="large-3 columns">
-  </div>
+
+  <div class="large-3 columns"></div>
 </div>
 
 <div class="row">
@@ -171,10 +169,10 @@ image:
       <figcaption>Mark Mansi</figcaption>
     </figure>
   </div>
-  <div class="large-3 columns">
-  </div>
-  <div class="large-3 columns">
-  </div>
+
+  <div class="large-3 columns"></div>
+  <div class="large-3 columns"></div>
+  <div class="large-3 columns"></div>
 </div>
 
 <div class="row">
