@@ -16,9 +16,10 @@ header:
 <div class="panel radius" style="padding-bottom: 21px;" markdown="1">
 
 ### Movie Night
-#### TBD
+#### May 4, Saturday, 18:45 - 22:00
 
-We will be watching a movie together, complete with popcorn and grad students.
+We will be watching _Back to the Future_ (1985) together, complete with popcorn
+and grad students.
 
 </div>
 </div>
@@ -28,11 +29,14 @@ We will be watching a movie together, complete with popcorn and grad students.
 <div class="small-12 columns">
 <div class="panel radius" style="padding-bottom: 21px;" markdown="1">
 
-### TGIF + Board Games 
-#### May 3, Friday, 17:00 - 19:30
+### MegaTGIF
+#### May 3, Friday, 17:15 - 19:30
 
-Come celebrate the end of the week by chatting with friends over snacks!
-Afterwards, feel free to rewind by playing board games in 4310CS at 6:30pm!
+Are you a curious person? Do you like trivia and know random stuff about
+technology, movies, TV-series, games, books etc? If yes, this is the perfect
+place for you. Pit your knowledge against the best at MegaTGIF's Quiz Bowl and
+enjoy a fun evening of food, trivia, and good times. Undergraduates, graduates,
+faculty, and staff are all invited.
 
 </div>
 </div>
