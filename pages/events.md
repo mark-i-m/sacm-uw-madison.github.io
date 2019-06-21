@@ -15,6 +15,23 @@ header:
 <div class="small-12 columns">
 <div class="panel radius" style="padding-bottom: 21px;" markdown="1">
 
+### New Student Orientation
+#### Late August
+
+Orientation for new students! Detail TBA.
+
+</div>
+</div>
+</div>
+
+---
+
+## Past Events
+
+<div class="row">
+<div class="small-12 columns">
+<div class="panel radius" style="padding-bottom: 21px;" markdown="1">
+
 ### Movie Night
 #### May 4, Saturday, 18:45 - 22:00
 
@@ -55,10 +72,6 @@ Afterwards, feel free to rewind by playing board games in 4310CS at 6:30pm!
 </div>
 </div>
 </div>
-
----
-
-## Past Events
 
 <div class="row">
 <div class="small-12 columns">
